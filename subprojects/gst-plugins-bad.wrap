@@ -2,4 +2,4 @@
 directory=gst-plugins-bad
 url=https://github.com/bensewell/gst-plugins-bad.git
 push-url=git@github.com:bensewell/gst-plugins-bad.git
-revision=kmssink_fix
+revision=jeeves
